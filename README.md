@@ -1,5 +1,5 @@
 # Trial1
-* What we learned today !!!
+## What we learned today !!!
 * Overleaf ATS friendly resume
 * Stack edit for markdown file
 * github pages for porfolio
