@@ -21,4 +21,4 @@
 * Python and its libraries
 * Data training and testing
 * Data science life cycle
-  
+* Udacity
