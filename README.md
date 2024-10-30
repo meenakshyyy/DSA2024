@@ -1,4 +1,4 @@
-# Trial1
+# Day1
 ## What we learned today !!!
 * Overleaf ATS friendly resume
 * Stack edit for markdown file
