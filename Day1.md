@@ -1,24 +1,27 @@
-# What we learned today !!!
-## Day1
-* Overleaf ATS friendly resume
-* Stack edit for markdown file
-* md extension in vs code for markdown file
-* github pages for porfolio
-* typing club to learn touch typing
-* google analyst for github rep
+# Day1
+## Introduction to Touch Typing
+* Typing club is a user friendly platform for beginners to learn the basics of touch typing.
+* It offers informative videos, fun games and makes the learning challenging yet easy to learn.
+* We have access to our analysed learning progress, which helps us to understand our stats.
 
-## Day 2 
-* Project management tools
-* Software development life cycle
-* Jira dicumentation tool
-* Agile methodology
-* SCRUM and agile terminologies
+## Overleaf and LaTex
+* LaTex is a typsetting system for documents.
+* This platform offers Ats friendly resume and all types of documents in LaTex editor
 
-## Day 3 
-* Evolution of artificial intelligence
-* Perceptron and neuron in ai
-* Correlation and causation
-* Python and its libraries
-* Data training and testing
-* Data science life cycle
-* Udacity
+## Stackedit
+* An in-browser markdown editor
+* It has a side by side visualisation of the final page 
+* Markdown editor is a light weight text to html page conversion tool.
+  
+## VS Code
+ * It is an IDE that is supported in windows, ios, linux etc
+ * It supports vast number of programming language and extensions
+ * It supports development, version control,debugging etc.
+
+## Github Pages
+*It can be used to make porfilio
+* Free open source platform for coding and version control.
+
+## Google Analyst
+* Helps track web traffic 
+
