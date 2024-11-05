@@ -22,6 +22,7 @@
 *It can be used to make porfilio
 * Free open source platform for coding and version control.
 
-## Google Analyst
-* Helps track web traffic 
+## Google Analytics
+* Helps track web traffic
+
 
