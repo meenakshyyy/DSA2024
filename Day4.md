@@ -1,4 +1,5 @@
-# Statistics 
+# Day4
+## Statistics 
   * It is the study of the collection, analysis, interpretation, presentation, and organization of data.
 
 ![image](https://github.com/user-attachments/assets/b2d376bb-f66d-46fc-aebe-ebd252c643bf)
@@ -23,7 +24,7 @@
   * percentile is a term that describes how a score compares to other scores from the same set.
   * 25th and 75th are considered in some cases.
 
-# Spread:
+## Spread:
   * Describe how similar or varied the set of observed values are for a particular variable (data item).
   * Measures of spread include the range, quartiles and the interquartile range (IQR), variance and standard deviation.
 
