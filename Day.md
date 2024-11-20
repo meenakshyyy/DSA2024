@@ -1,9 +1,9 @@
-## -Relational and Non-relational Databases
+## Relational and Non-relational Databases
 *	-Relational Db stores data in a structured tables with rows and columns, using a predefined schema 
 to clearly define relationships between data points.
 MySQL, Postgre SQ , Oracle, MySQL server.
 
-## -Non relational Database
+## Non relational Database
 * 	-MongoDB, NoSQL
 
 ## Tables
